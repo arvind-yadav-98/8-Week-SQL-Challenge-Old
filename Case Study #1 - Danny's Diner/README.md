@@ -6,10 +6,10 @@
 ## Problem Statement
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 
-### Entity Relationship Diagram
+## Entity Relationship Diagram
 ![image](https://user-images.githubusercontent.com/89238949/132333688-6a4e2b17-a932-4f73-9fa5-4d695dd6d66b.png)
 
-#### Case Study Questions
+## Case Study Questions
 1.What is the total amount each customer spent at the restaurant?
 
 2.How many days has each customer visited the restaurant?
