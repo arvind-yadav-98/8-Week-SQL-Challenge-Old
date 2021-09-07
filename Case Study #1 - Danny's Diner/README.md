@@ -1,6 +1,5 @@
 # Case Study #1 - Danny's Diner
 [Link to Case Study #1](https://8weeksqlchallenge.com/case-study-1/)
-![image](https://user-images.githubusercontent.com/89238949/132334785-3593260e-a5c6-4eff-b55a-895a8f2437b4.png)
 
 
 ## Problem Statement
@@ -28,6 +27,6 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
-10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at    the end of January?
+10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at     the end of January?
 
-Bonus Questions
+    Bonus Questions
